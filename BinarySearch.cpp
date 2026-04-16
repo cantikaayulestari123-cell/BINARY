@@ -5,7 +5,7 @@ int element[10];
 int panjang;
 int x;
 
-void input()
+void input() 
 {
     while (true)
     {
