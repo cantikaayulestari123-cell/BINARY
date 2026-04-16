@@ -10,5 +10,5 @@ void input()
     while (true)
     {
         cout << "Masukkan banyaknya elemen pada array (maksimal 10): ";
-    }
+    } 
 }
